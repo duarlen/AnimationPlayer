@@ -1,0 +1,6 @@
+framework module AnimationPlayer {
+  umbrella header "AnimationPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

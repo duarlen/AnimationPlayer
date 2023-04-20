@@ -1,0 +1,42 @@
+{
+  "name": "AnimationPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of AnimationPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huasheng/AnimationPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huasheng": "201172881@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/huasheng/AnimationPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "AnimationPlayer/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ],
+    "libpag": [
+
+    ],
+    "lottie-ios": [
+
+    ],
+    "SVGAPlayer": [
+
+    ],
+    "QGVAPlayer": [
+
+    ],
+    "Kingfisher": [
+
+    ]
+  }
+}

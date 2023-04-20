@@ -1,0 +1,56 @@
+PODS:
+  - AnimationPlayer (0.1.0):
+    - Kingfisher
+    - libpag
+    - lottie-ios
+    - QGVAPlayer
+    - SnapKit
+    - SVGAPlayer
+  - Kingfisher (6.3.1)
+  - libpag (4.2.8)
+  - lottie-ios (3.2.3)
+  - Protobuf (3.22.1)
+  - QGVAPlayer (1.0.19)
+  - SnapKit (5.6.0)
+  - SSZipArchive (2.4.3)
+  - SVGAPlayer (2.5.7):
+    - SVGAPlayer/Core (= 2.5.7)
+    - SVGAPlayer/ProtoFiles (= 2.5.7)
+  - SVGAPlayer/Core (2.5.7):
+    - SSZipArchive (>= 1.8.1)
+    - SVGAPlayer/ProtoFiles
+  - SVGAPlayer/ProtoFiles (2.5.7):
+    - Protobuf (~> 3.4)
+
+DEPENDENCIES:
+  - AnimationPlayer (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - libpag
+    - lottie-ios
+    - Protobuf
+    - QGVAPlayer
+    - SnapKit
+    - SSZipArchive
+    - SVGAPlayer
+
+EXTERNAL SOURCES:
+  AnimationPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnimationPlayer: ebd88e41a263ed9f6a055a25f211781ddf707305
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  libpag: f0a565067ce5d421dc13bbddd261b0935e77b9ac
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  Protobuf: d7f7c8329edf5eb8af65547a8ba3e9c1cee927d5
+  QGVAPlayer: a0bca68c9bd6f1c8de5ac2d10ddf98be6038cce9
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  SVGAPlayer: 318b85a78b61292d6ae9dfcd651f3f0d1cdadd86
+
+PODFILE CHECKSUM: f701eb0fc2ff476e35b7f9c3811dd15f053bea6b
+
+COCOAPODS: 1.11.3

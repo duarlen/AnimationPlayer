@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AnimationPlayer_Example' do
+  pod 'AnimationPlayer', :path => '../'
+
+  target 'AnimationPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
